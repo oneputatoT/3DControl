@@ -14,3 +14,6 @@ Action By：www.mixamo.com
 
 Character Movement，Camera Following，Rotate and some Animations
 
+
+
+![gif_animation_001](https://user-images.githubusercontent.com/50166070/156125212-32d03a75-9629-474e-98ab-3b3ec968ef9c.gif)
